@@ -10,7 +10,7 @@ Follow the instructions.
 
 May the force be with you !
 
-![demo.gif]
+![demo](demo.gif)
 
 
 # License
