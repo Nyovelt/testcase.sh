@@ -12,6 +12,7 @@ May the force be with you !
 
 ![demo](demo.gif)
 
+# The Program is not well-built and could only work. It's appreciate to add a commit and make it better.
 
 # License
 Do WTF you like.
