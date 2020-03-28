@@ -15,4 +15,4 @@ May the force be with you !
 # The Program is not well-built and could only work. It's appreciate to add a commit and make it better.
 
 # License
-[WTFPL](http://www.wtfpl.net/)
+[WTFPL](http://www.wtfpl.net/about/)
