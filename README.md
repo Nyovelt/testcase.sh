@@ -10,5 +10,8 @@ Follow the instructions.
 
 May the force be with you !
 
+![demo.gif]
+
+
 # License
 Do WTF you like.
